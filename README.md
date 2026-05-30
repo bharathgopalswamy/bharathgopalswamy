@@ -119,11 +119,13 @@ I care about clean architecture, performance, and shipping things that actually 
 <div align="center">
 
 ## GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathgopalswamy&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bharathgopalswamy&show_icons=true&theme=github_dark&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathgopalswamy&layout=compact&theme=github_dark&hide_border=true)
-
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bharathgopalswamy&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 </div>
 
 ---
