@@ -118,9 +118,11 @@ I care about clean architecture, performance, and shipping things that actually 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bharathgopalswamy&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1a56a0&icon_color=1a56a0&text_color=374151&bg_color=ffffff" alt="Bharath's GitHub stats" />
+## GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathgopalswamy&layout=compact&hide_border=true&title_color=1a56a0&text_color=374151&bg_color=ffffff&langs_count=6" alt="Top languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathgopalswamy&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathgopalswamy&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
