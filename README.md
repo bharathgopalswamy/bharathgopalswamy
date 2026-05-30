@@ -114,13 +114,9 @@ I care about clean architecture, performance, and shipping things that actually 
 ---
 
 <!-- GITHUB STATS -->
-## GitHub Stats
 
-<div align="center">
 
 ## GitHub Stats
-## GitHub Stats
-
 <p align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bharathgopalswamy&show_icons=true&theme=github_dark&hide_border=true" />
 
