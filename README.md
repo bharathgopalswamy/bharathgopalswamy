@@ -126,21 +126,12 @@ CGPA 9.07/10
 ## Certifications
 
 - **Meta Front-End Developer Professional Certificate** — Coursera (2026)
+- **Meta Programming with Javascript** — Coursera (2026)
 - **Python for Data Science & AI Development** — IBM (2023)
 - **React.js Essential Training & REST APIs** — LinkedIn Learning (2023)
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathgopalswamy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathgopalswamy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bharathgopalswamy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -153,7 +144,27 @@ CGPA 9.07/10
 ---
 
 <p align="center">
-  <a href="https://bharathgopalsamy.vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/bharathgopalsamy">LinkedIn</a> ·
-  <a href="mailto:bharathgopalswamy09@gmail.com">Email</a>
+
+  <a href="https://bharathgopalsamy.vercel.app">
+
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+  </a>
+
+
+
+  <a href="https://linkedin.com/in/bharathgopalsamy">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  </a>
+
+
+
+  <a href="mailto:bharathgopalswamy09@gmail.com">
+
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  </a>
+
 </p>
