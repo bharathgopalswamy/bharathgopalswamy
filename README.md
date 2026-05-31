@@ -137,34 +137,20 @@ CGPA 9.07/10
 
 ## Currently
 
-- Finishing my M.Applied CS at StFX (May 2026)
+- Completed my M.Applied CS at StFX (May 2026)
 - Deepening work in ML and system design
 - Open to **full-stack / front-end developer roles** — full-time or internship
 
 ---
 
 <p align="center">
-
   <a href="https://bharathgopalsamy.vercel.app">
-
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-  </a>
-
-
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
   <a href="https://linkedin.com/in/bharathgopalsamy">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-  </a>
-
-
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
   <a href="mailto:bharathgopalswamy09@gmail.com">
-
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-  </a>
-
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
