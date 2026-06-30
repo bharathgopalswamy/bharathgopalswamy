@@ -1,156 +1,312 @@
 # Bharath Gopalsamy
 
-**Full-Stack Developer** — React · TypeScript · Node.js · Django · MERN
+<h3 align="center">
+Software Developer • Data Analytics • Business Intelligence • Full-Stack Development
+</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bharathgopalsamy.vercel.app-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://bharathgopalsamy.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharathgopalsamy-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathgopalsamy)
-[![Email](https://img.shields.io/badge/Email-bharathgopalswamy09@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bharathgopalswamy09@gmail.com)
+<p align="center">
+
+<a href="https://bharathgopalsamy.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bharathgopalsamy">
+<img src="https://img.shields.io/badge/LinkedIn-Bharath%20Gopalsamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bharathgopalswamy09@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-I build full-stack web applications — from React/TypeScript frontends to Node.js REST APIs and Django backends. Currently pursuing an M.Applied Computer Science at St. Francis Xavier University (GPA ~3.7/4.0) while shipping production-grade projects and working as Website Coordinator for a platform serving 5,000+ students.
+# 👋 About Me
 
-I care about component architecture, performance, and writing code that's actually testable.
+I'm a software developer passionate about building applications, analyzing data, and solving real-world business problems through technology.
+
+My experience spans full-stack web development, data analytics, business intelligence, dashboard development, AI-powered applications, and backend engineering. I enjoy working across the entire software lifecycle—from designing user interfaces and building APIs to analyzing datasets and creating dashboards that support better decision-making.
+
+I recently completed my **Master of Applied Computer Science** at **St. Francis Xavier University** (Canada) and I'm currently seeking opportunities across Canada in:
+
+- Software Development
+- Full-Stack Development
+- Front-End Development
+- Data Analytics
+- Business Intelligence
+- Technical Analyst
+- Operations Analyst
 
 ---
 
-## Tech Stack
+# 💼 Core Competencies
 
-**Languages**
+- Full-Stack Web Development
+- Data Analysis
+- Business Intelligence
+- Dashboard Development
+- SQL & Database Design
+- ETL & Data Processing
+- REST API Development
+- AI Integration
+- Data Visualization
+- Performance Optimization
+- Agile Development
+- Technical Documentation
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=postgresql&logoColor=white)
+---
 
-**Frontend**
+# 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22d3ee?style=flat-square)
-![Jest](https://img.shields.io/badge/Jest-c21325?style=flat-square&logo=jest&logoColor=white)
+## Languages
 
-**Backend**
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
+---
 
-**Databases**
+## Web Development
 
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Auth & Security**
+---
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-4285f4?style=flat-square&logo=google&logoColor=white)
+## Data & Analytics
 
-**Tools & Platforms**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Recharts](https://img.shields.io/badge/Recharts-22D3EE?style=flat-square)
 
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+---
+
+## AI & Machine Learning
+
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46e3b7?style=flat-square&logo=render&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### [DermaCure AI](https://derma-ai-psi.vercel.app) — AI-Powered Skin Screening & Booking Platform
-> `React` `Node.js` `Express.js` `MongoDB Atlas` `TensorFlow.js` `JWT` `Tailwind CSS` `Jest`
+## 🩺 DermaCure AI
 
-Full-stack MERN healthcare platform where patients can upload skin images for AI-powered condition screening and book dermatologist appointments.
+**AI-powered skin screening and appointment management platform**
 
-- Browser-side TensorFlow.js model analyzes 5+ skin conditions in **under 2 seconds** per upload
-- JWT auth with role-separated access (patient / doctor / admin) across 9 client-facing pages
-- 6 Jest/RTL test suites covering auth flows, async UI, and protected route redirects
+**Tech**
 
-[![Live](https://img.shields.io/badge/Live-derma--ai--psi.vercel.app-0ea5e9?style=flat-square&logo=vercel)](https://derma-ai-psi.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-DermaAI-181717?style=flat-square&logo=github)](https://github.com/bharathgopalswamy/DermaAI)
+React • Node.js • Express • MongoDB • TensorFlow.js • JWT
 
----
+### Highlights
 
-### [HabitIQ](https://habitiq.vercel.app) — AI-Powered Habit Tracking SaaS
-> `React` `TypeScript` `Node.js` `Express.js` `MongoDB Atlas` `Gemini AI API` `Recharts` `Jest`
+- AI-powered skin condition screening
+- JWT authentication with role-based access
+- Doctor appointment booking system
+- MERN architecture
+- Unit tested using Jest
+- Responsive modern UI
 
-Full-stack SaaS platform in TypeScript that uses Gemini AI to generate personalized habit routines and tracks progress through an analytics dashboard.
+🔗 Live Demo
 
-- Gemini AI integration with a full backend pipeline: controller → prompt → parsed response → MongoDB persistence
-- Analytics dashboard with pie, line, and heatmap charts driven by server-side aggregation (completion rates, focus scores, consistency insights)
-- Context API for global auth/habit state — zero prop drilling across all dashboard views
+https://derma-ai-psi.vercel.app
 
-[![Live](https://img.shields.io/badge/Live-habitiq.vercel.app-0ea5e9?style=flat-square&logo=vercel)](https://habitiq.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-smart--ai--habit--tracker-181717?style=flat-square&logo=github)](https://github.com/bharathgopalswamy/smart-ai-habit-tracker)
+🔗 GitHub
 
----
-
-### [MedCare](https://github.com/bharathgopalswamy/DoctorPatient) — Healthcare Appointment Management System
-> `Django` `JavaScript` `MySQL` `Google Calendar API` `OAuth2` `Session Auth`
-
-Full-stack appointment management system for patients and doctors, with real-time calendar sync.
-
-- Google Calendar API via OAuth2 auto-syncs appointments to both patient and doctor calendars — **~30% reduction** in admin effort
-- Normalized MySQL schema across 3 entities with indexed query fields and slot conflict detection to prevent double-bookings
-- Django CBVs with server-side form validation and permission decorators securing all endpoints
-
-[![GitHub](https://img.shields.io/badge/GitHub-DoctorPatient-181717?style=flat-square&logo=github)](https://github.com/bharathgopalswamy/DoctorPatient)
+https://github.com/bharathgopalswamy/DermaAI
 
 ---
 
-## Experience
+## 📈 HabitIQ
 
-**Website Coordinator** — St. Francis Xavier University Students' Union *(Aug 2025 – Present)*
-Cut average page load time by ~20% via browser caching, image compression, and lazy loading. Resolved 12+ cross-browser bugs and established a same-day content publishing workflow across 3 departments.
+**AI-powered habit tracking and analytics platform**
 
-**Front-End Developer Intern** — FirstLanguage Technologies, Chennai *(Aug 2023 – Jul 2024)*
-Built 8+ reusable TypeScript React components; reduced unnecessary re-renders by ~30% via memoization and `React.lazy()`. Integrated 5+ REST API endpoints powering NLP analytics dashboards in 2-week Agile sprints.
+**Tech**
 
-**React Developer Intern** — Across the Globe, Bangalore *(May 2023 – Nov 2023)*
-Delivered a library of 15+ reusable components (data tables, modals, forms) reducing duplicated UI code by ~40%. Profiled and resolved rendering bottlenecks in 6 components using React DevTools Profiler.
+React • TypeScript • Node.js • MongoDB • Gemini API • Recharts
 
----
+### Highlights
 
-## Education
+- Personalized habit generation using Gemini AI
+- Interactive analytics dashboard
+- Context API state management
+- REST API backend
+- Progress tracking and visualization
 
-**M. Applied Computer Science** — St. Francis Xavier University, Canada *(2024 – 2026)*
-GPA ~3.7/4.0 · Coursework: DSA, Big Data, Machine Learning, Network Security, Embedded Systems
+🔗 Live Demo
 
-**B.E. Computer Science** — SRM Valliammai Engineering College, Anna University *(2020 – 2024)*
-CGPA 9.07/10
+https://habitiq.vercel.app
 
----
+🔗 GitHub
 
-## Certifications
-
-- **Meta Front-End Developer Professional Certificate** — Coursera (2026)
-- **Meta Programming with Javascript** — Coursera (2026)
-- **Python for Data Science & AI Development** — IBM (2023)
-- **React.js Essential Training & REST APIs** — LinkedIn Learning (2023)
+https://github.com/bharathgopalswamy/smart-ai-habit-tracker
 
 ---
 
+## 🏥 MedCare
+
+**Healthcare appointment management system**
+
+**Tech**
+
+Django • MySQL • Google Calendar API • OAuth2
+
+### Highlights
+
+- Appointment scheduling
+- Google Calendar synchronization
+- Secure authentication
+- MySQL relational database
+- Administrative dashboard
+
+🔗 GitHub
+
+https://github.com/bharathgopalswamy/DoctorPatient
 
 ---
 
-## Currently
+## 🎵 Spotify Music Intelligence Platform
 
-- Completed my M.Applied CS at StFX (May 2026)
-- Deepening work in ML and system design
-- Open to **full-stack / front-end developer roles** — full-time or internship
+**Data Engineering • SQL Analytics • Power BI**
+
+**Tech**
+
+Python • SQL • MySQL • Pandas • Power BI • Matplotlib
+
+### Highlights
+
+- ETL pipeline processing 114K+ Spotify tracks
+- Data cleaning and validation
+- SQL analytics with CTEs, Window Functions and Views
+- Query optimization using indexes and EXPLAIN
+- Interactive Power BI dashboards
+- Artist, genre and popularity insights
+
+---
+
+## 💼 Professional Experience
+
+### Website Coordinator
+**St. Francis Xavier University Students' Union**
+
+- Managed and optimized a university platform serving 5,000+ students
+- Improved website performance through caching, lazy loading, and image optimization
+- Built KPI dashboards and operational reporting workflows
+- Maintained documentation and streamlined publishing processes
+- Ensured accessibility and cross-browser compatibility
+
+---
+
+### Web Developer
+**FirstLanguage Technologies**
+
+- Developed reusable React and TypeScript components
+- Integrated REST APIs into analytics dashboards
+- Improved application performance
+- Worked in Agile development teams
+- Collaborated with designers and backend engineers
+
+---
+
+### Front-End Developer
+**Banao Technologies**
+
+- Developed reusable UI component library
+- Built responsive React applications
+- Optimized rendering performance
+- Worked closely with backend developers and designers
+
+---
+
+# 🎓 Education
+
+### Master of Applied Computer Science
+
+**St. Francis Xavier University**
+
+2024 – 2026
+
+---
+
+### Bachelor of Engineering (Computer Science)
+
+**SRM Valliammai Engineering College**
+
+2020 – 2024
+
+---
+
+# 📜 Certifications
+
+- Meta Front-End Developer Professional Certificate
+- Meta Programming with JavaScript
+- IBM Python for Data Science & AI Development
+- React.js Essential Training
+- Learning REST APIs
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharathgopalswamy&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathgopalswamy&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathgopalswamy&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🌱 Currently
+
+- Building full-stack applications
+- Developing analytics dashboards
+- Exploring AI-powered solutions
+- Learning advanced system design and cloud technologies
+- Open to Software Developer, Data Analyst, BI Analyst, Technical Analyst, and Operations Analyst opportunities across Canada
 
 ---
 
 <p align="center">
-  <a href="https://bharathgopalsamy.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
-  <a href="https://linkedin.com/in/bharathgopalsamy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://bharathgopalsamy.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-  <a href="mailto:bharathgopalswamy09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/bharathgopalsamy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bharathgopalswamy09@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-
