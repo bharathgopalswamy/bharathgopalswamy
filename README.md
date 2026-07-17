@@ -169,18 +169,15 @@ flowchart LR
   <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/bharathgopalswamy/bharathgopalswamy/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## Right now
+## Current priorities
 
-- Adding stronger automated and API testing to DermaCure.
-- Learning deeper HTTP diagnostics, logging, Azure fundamentals, and enterprise integration patterns.
-- Open to junior roles in **application development, application support, systems analysis, technical analysis, integration support, and full-stack development** across Canada.
+- Expanding automated frontend and API test coverage in DermaCure.
+- Strengthening application-support skills in HTTP diagnostics, structured logging, and issue investigation.
+- Building practical knowledge of Azure fundamentals and enterprise integration patterns.
 
-<p align="center">
-  <strong>Build the interface · Connect the API · Understand the data · Support the user</strong>
-</p>
+> **Open to opportunities across Canada:** Application Developer · Application Support Analyst · Technical Analyst · Integration Support · Full-Stack Developer
 
 <p align="center">
-  <a href="https://bharathgopalsamy.vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/bharathgopalsamy">LinkedIn</a> ·
-  <a href="mailto:bharathgopalswamy09@gmail.com">Email</a>
+  <a href="https://bharathgopalsamy.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" /></a>
+  <a href="https://linkedin.com/in/bharathgopalsamy"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
