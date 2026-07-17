@@ -73,7 +73,7 @@ const bharath = {
         <li>Personalized planning with history</li>
         <li>Responsive TypeScript interface</li>
       </ul>
-      <p><a href="https://habitiq.vercel.app"><strong>Live application</strong></a> · <a href="https://github.com/bharathgopalswamy/smart-ai-habit-tracker"><strong>Source</strong></a></p>
+      <p><a href="https://habitiq-blond.vercel.app"><strong>Live application</strong></a> · <a href="https://github.com/bharathgopalswamy/smart-ai-habit-tracker"><strong>Source</strong></a></p>
     </td>
   </tr>
   <tr>
