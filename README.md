@@ -1,312 +1,139 @@
-# Bharath Gopalsamy
-
-<h3 align="center">
-Software Developer • Data Analytics • Business Intelligence • Full-Stack Development
-</h3>
-
 <p align="center">
-
-<a href="https://bharathgopalsamy.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/bharathgopalsamy">
-<img src="https://img.shields.io/badge/LinkedIn-Bharath%20Gopalsamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bharathgopalswamy09@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="./assets/github-profile-banner.png" alt="Bharath Gopalsamy — Application Development, API Integration, SQL, and Technical Support" width="100%" />
 </p>
 
----
+<p align="center">
+  <a href="https://bharathgopalsamy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/bharathgopalsamy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bharathgopalswamy09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-# 👋 About Me
+## Hello, I'm Bharath
 
-I'm a software developer passionate about building applications, analyzing data, and solving real-world business problems through technology.
+I am an application developer with experience building, integrating, troubleshooting, and supporting data-driven web applications. My work connects **React interfaces**, **Node.js APIs**, **SQL and MongoDB data**, automated testing, and practical reporting.
 
-My experience spans full-stack web development, data analytics, business intelligence, dashboard development, AI-powered applications, and backend engineering. I enjoy working across the entire software lifecycle—from designing user interfaces and building APIs to analyzing datasets and creating dashboards that support better decision-making.
+I recently completed a **Master of Applied Computer Science at St. Francis Xavier University**. I am currently based in Nova Scotia, authorized to work full-time in Canada, and open to relocation for the right opportunity.
 
-I recently completed my **Master of Applied Computer Science** at **St. Francis Xavier University** (Canada) and I'm currently seeking opportunities across Canada in:
+```text
+BUILD      React, TypeScript, Node.js, Express.js
+CONNECT    REST APIs, JWT, OAuth 2.0, third-party integrations
+DATA       SQL, MySQL, MongoDB, Python, Power BI
+SUPPORT    Debugging, API testing, issue investigation, documentation
+SHIP       Git, Docker, Vercel, Render, responsive and tested workflows
+```
 
-- Software Development
-- Full-Stack Development
-- Front-End Development
-- Data Analytics
-- Business Intelligence
-- Technical Analyst
-- Operations Analyst
+## Selected work
 
----
+### DermaCure — full-stack healthcare workflow
 
-# 💼 Core Competencies
+A MERN application connecting patient and doctor workflows through role-based dashboards, secure authentication, scan sharing, appointment management, and doctor recommendations.
 
-- Full-Stack Web Development
-- Data Analysis
-- Business Intelligence
-- Dashboard Development
-- SQL & Database Design
-- ETL & Data Processing
-- REST API Development
-- AI Integration
-- Data Visualization
-- Performance Optimization
-- Agile Development
-- Technical Documentation
+`React` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `Docker` `Vitest` `React Testing Library`
 
----
+- Implemented patient, doctor, and administrator access controls.
+- Built REST APIs for users, scans, appointments, and recommendations.
+- Added protected routes, validation, error handling, and automated frontend tests.
+- Containerized the frontend, backend, and database development environment.
 
-# 🛠 Tech Stack
+[Live application](https://derma-ai-psi.vercel.app) · [Source code](https://github.com/bharathgopalswamy/DermaAI)
 
-## Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> Portfolio prototype only; it is not a clinically validated diagnostic system.
 
 ---
 
-## Web Development
+### HabitIQ — habit analytics and AI-assisted planning
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+A full-stack habit-tracking application with secure user accounts, interactive progress analytics, productivity indicators, and personalized planning through the Gemini API.
 
----
+`React` `TypeScript` `Node.js` `Express.js` `MongoDB Atlas` `Tailwind CSS` `Recharts` `Gemini API`
 
-## Data & Analytics
+- Designed habit creation, progress tracking, and plan-history workflows.
+- Built interactive dashboards with heatmaps, trends, focus scores, and risk summaries.
+- Developed REST endpoints and JWT-based authentication.
+- Integrated Gemini as an optional planning feature rather than the core application logic.
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Recharts](https://img.shields.io/badge/Recharts-22D3EE?style=flat-square)
+[Live application](https://habitiq.vercel.app) · [Source code](https://github.com/bharathgopalswamy/smart-ai-habit-tracker)
 
 ---
 
-## AI & Machine Learning
+### Spotify Music Intelligence — API-to-dashboard analytics
 
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+An end-to-end data project that extracts Spotify catalogue information, transforms it into structured datasets, stores it in a normalized MySQL schema, and presents the results through interactive dashboards.
 
----
+`Python` `Spotify Web API` `Spotipy` `MySQL` `SQL` `Power BI` `Pandas` `Chart.js`
 
-## Tools
+- Extracted and transformed data for **10 albums and 124 tracks**.
+- Designed normalized album and track tables in MySQL.
+- Wrote SQL analysis for popularity, duration, catalogue size, and release patterns.
+- Created Power BI and web dashboards for interactive exploration.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+[View project](https://spotify-music-intelligence-platform.vercel.app)
 
 ---
 
-# 🚀 Featured Projects
+### MedCare — appointment and calendar integration
 
-## 🩺 DermaCure AI
+A Django-based healthcare appointment system with relational data management, secure authentication, administrative workflows, and Google Calendar synchronization.
 
-**AI-powered skin screening and appointment management platform**
+`Django` `Python` `MySQL` `Google Calendar API` `OAuth 2.0`
 
-**Tech**
+- Implemented appointment booking and administrative management.
+- Integrated Google Calendar for schedule synchronization.
+- Used a relational MySQL data model for users and appointments.
 
-React • Node.js • Express • MongoDB • TensorFlow.js • JWT
+[Source code](https://github.com/bharathgopalswamy/DoctorPatient)
 
-### Highlights
+## Experience
 
-- AI-powered skin condition screening
-- JWT authentication with role-based access
-- Doctor appointment booking system
-- MERN architecture
-- Unit tested using Jest
-- Responsive modern UI
+### Website Coordinator — St. Francis Xavier University Students' Union
+`Aug 2025 – May 2026 · Antigonish, Nova Scotia`
 
-🔗 Live Demo
+- Maintained a production website serving more than 5,000 students.
+- Investigated navigation, layout, mobile-responsiveness, and publishing issues.
+- Used Squarespace, HTML/CSS customization, code injection, and browser developer tools.
+- Coordinated requirements with nontechnical stakeholders and standardized publishing practices.
 
-https://derma-ai-psi.vercel.app
+### Frontend Developer Intern — FirstLanguage Technologies
+`Aug 2023 – Jul 2024 · Chennai, India`
 
-🔗 GitHub
+- Developed reusable React components for NLP analytics dashboards.
+- Integrated REST APIs and handled application state, validation, and data-display behaviour.
+- Investigated state-synchronization and rendering issues.
+- Collaborated with backend developers during Agile sprints, reviews, and testing.
 
-https://github.com/bharathgopalswamy/DermaAI
+### React Developer Intern — Banao Technologies
+`May 2023 – Nov 2023 · Remote`
 
----
+- Converted wireframes into responsive React interfaces.
+- Built reusable tables, forms, and dashboard components.
+- Integrated REST APIs and added frontend validation and error states.
+- Worked with backend developers to troubleshoot integration issues.
 
-## 📈 HabitIQ
+## Technical toolkit
 
-**AI-powered habit tracking and analytics platform**
+| Area | Technologies |
+|---|---|
+| Application development | JavaScript, TypeScript, React, Node.js, Express.js, Django, HTML, CSS, Tailwind CSS |
+| APIs and security | REST APIs, JWT, bcrypt, OAuth 2.0, Postman, API validation |
+| Data and reporting | SQL, MySQL, MongoDB, Python, Pandas, Power BI, Recharts, Chart.js |
+| Quality and delivery | Vitest, React Testing Library, Git, GitHub, Docker, Vercel, Render |
+| Support and collaboration | Debugging, Chrome DevTools, issue investigation, Agile delivery, technical documentation |
 
-**Tech**
+## Education and credentials
 
-React • TypeScript • Node.js • MongoDB • Gemini API • Recharts
-
-### Highlights
-
-- Personalized habit generation using Gemini AI
-- Interactive analytics dashboard
-- Context API state management
-- REST API backend
-- Progress tracking and visualization
-
-🔗 Live Demo
-
-https://habitiq.vercel.app
-
-🔗 GitHub
-
-https://github.com/bharathgopalswamy/smart-ai-habit-tracker
-
----
-
-## 🏥 MedCare
-
-**Healthcare appointment management system**
-
-**Tech**
-
-Django • MySQL • Google Calendar API • OAuth2
-
-### Highlights
-
-- Appointment scheduling
-- Google Calendar synchronization
-- Secure authentication
-- MySQL relational database
-- Administrative dashboard
-
-🔗 GitHub
-
-https://github.com/bharathgopalswamy/DoctorPatient
-
----
-
-## 🎵 Spotify Music Intelligence Platform
-
-**Data Engineering • SQL Analytics • Power BI**
-
-**Tech**
-
-Python • SQL • MySQL • Pandas • Power BI • Matplotlib
-
-### Highlights
-
-- ETL pipeline processing 114K+ Spotify tracks
-- Data cleaning and validation
-- SQL analytics with CTEs, Window Functions and Views
-- Query optimization using indexes and EXPLAIN
-- Interactive Power BI dashboards
-- Artist, genre and popularity insights
-
----
-
-## 💼 Professional Experience
-
-### Website Coordinator
-**St. Francis Xavier University Students' Union**
-
-- Managed and optimized a university platform serving 5,000+ students
-- Improved website performance through caching, lazy loading, and image optimization
-- Built KPI dashboards and operational reporting workflows
-- Maintained documentation and streamlined publishing processes
-- Ensured accessibility and cross-browser compatibility
-
----
-
-### Web Developer
-**FirstLanguage Technologies**
-
-- Developed reusable React and TypeScript components
-- Integrated REST APIs into analytics dashboards
-- Improved application performance
-- Worked in Agile development teams
-- Collaborated with designers and backend engineers
-
----
-
-### Front-End Developer
-**Banao Technologies**
-
-- Developed reusable UI component library
-- Built responsive React applications
-- Optimized rendering performance
-- Worked closely with backend developers and designers
-
----
-
-# 🎓 Education
-
-### Master of Applied Computer Science
-
-**St. Francis Xavier University**
-
-2024 – 2026
-
----
-
-### Bachelor of Engineering (Computer Science)
-
-**SRM Valliammai Engineering College**
-
-2020 – 2024
-
----
-
-# 📜 Certifications
-
+- **Master of Applied Computer Science**, St. Francis Xavier University — 2026
+- **Bachelor of Engineering in Computer Science and Engineering**, SRM Valliammai Engineering College — 2024
 - Meta Front-End Developer Professional Certificate
-- Meta Programming with JavaScript
-- IBM Python for Data Science & AI Development
-- React.js Essential Training
-- Learning REST APIs
+- IBM Python for Data Science, AI & Development
+- LinkedIn Learning: React.js and REST APIs
 
----
+## Current direction
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharathgopalswamy&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathgopalswamy&theme=github-dark"/>
-
-</p>
+- Strengthening automated testing and API-quality practices in DermaCure.
+- Building deeper application-support skills around logs, HTTP diagnostics, and production issue investigation.
+- Exploring Azure and enterprise integration patterns.
+- Seeking junior opportunities in **application development, application support, systems analysis, technical analysis, integration support, and full-stack development** across Canada.
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathgopalswamy&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🌱 Currently
-
-- Building full-stack applications
-- Developing analytics dashboards
-- Exploring AI-powered solutions
-- Learning advanced system design and cloud technologies
-- Open to Software Developer, Data Analyst, BI Analyst, Technical Analyst, and Operations Analyst opportunities across Canada
-
----
-
-<p align="center">
-
-<a href="https://bharathgopalsamy.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/bharathgopalsamy">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bharathgopalswamy09@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <strong>Build the interface. Connect the API. Understand the data. Support the user.</strong>
 </p>
