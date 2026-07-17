@@ -73,7 +73,7 @@ const bharath = {
         <li>Personalized planning with history</li>
         <li>Responsive TypeScript interface</li>
       </ul>
-      <p><a href="https://habitiq-blond.vercel.app"><strong>Live application</strong></a> · <a href="https://github.com/bharathgopalswamy/smart-ai-habit-tracker"><strong>Source</strong></a></p>
+      <p><a href="https://habitiq.vercel.app"><strong>Live application</strong></a> · <a href="https://github.com/bharathgopalswamy/smart-ai-habit-tracker"><strong>Source</strong></a></p>
     </td>
   </tr>
   <tr>
@@ -105,12 +105,8 @@ const bharath = {
 </table>
 
 <p align="center">
-  <a href="https://github.com/bharathgopalswamy/DermaAI">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bharathgopalswamy&repo=DermaAI&hide_border=true&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&bg_color=0B1930" alt="DermaCure repository" />
-  </a>
-  <a href="https://github.com/bharathgopalswamy/smart-ai-habit-tracker">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bharathgopalswamy&repo=smart-ai-habit-tracker&hide_border=true&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&bg_color=0B1930" alt="HabitIQ repository" />
-  </a>
+  <a href="https://github.com/bharathgopalswamy/DermaAI"><img src="https://img.shields.io/badge/Explore-DermaCure-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore DermaCure on GitHub" /></a>
+  <a href="https://github.com/bharathgopalswamy/smart-ai-habit-tracker"><img src="https://img.shields.io/badge/Explore-HabitIQ-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="Explore HabitIQ on GitHub" /></a>
 </p>
 
 ## Technology constellation
