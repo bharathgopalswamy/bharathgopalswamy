@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nova_Scotia,_Canada-0F766E?style=flat-square" alt="Nova Scotia, Canada" />
-  <img src="https://img.shields.io/badge/MACS-St._Francis_Xavier_University-1E3A8A?style=flat-square" alt="Master of Applied Computer Science, StFX" />
+  <img src="https://img.shields.io/badge/Nova_Scotia-Canada-0F766E?style=flat-square" alt="Nova Scotia, Canada" />
+  <img src="https://img.shields.io/badge/MACS-St_Francis_Xavier_University-1E3A8A?style=flat-square" alt="Master of Applied Computer Science, StFX" />
   <img src="https://img.shields.io/badge/Open_to-full--time_roles_across_Canada-15803D?style=flat-square" alt="Open to full-time roles across Canada" />
 </p>
 
