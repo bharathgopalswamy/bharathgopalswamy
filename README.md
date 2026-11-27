@@ -1,183 +1,160 @@
 <p align="center">
-  <img src="./assets/github-profile-banner.png" alt="Bharath Gopalsamy — Application Development, API Integration, SQL, and Technical Support" width="100%" />
+  <img src="./assets/banner.svg" alt="Bharath Gopalsamy — Business Systems Developer and Application Support. I build and support the internal systems organizations run on: service desks, intake workflows, records and reporting." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=I+build+and+support+data-driven+web+applications;React+%2B+Node.js+%2B+REST+APIs+%2B+SQL;From+interface+to+API+to+actionable+insight;Open+to+technical+opportunities+across+Canada" alt="Animated introduction" />
-  </a>
+  <a href="https://service-desk-ticketing-system.onrender.com"><img src="https://img.shields.io/badge/Live_demo-Service_Desk-22D3EE?style=for-the-badge&logo=render&logoColor=white" alt="Service Desk live demo" /></a>
+  <a href="https://bharathgopalsamy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/bharathgopalsamy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bharathgopalswamy09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="https://bharathgopalsamy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/bharathgopalsamy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bharathgopalswamy09@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Nova_Scotia,_Canada-0F766E?style=flat-square" alt="Nova Scotia, Canada" />
+  <img src="https://img.shields.io/badge/MACS-St._Francis_Xavier_University-1E3A8A?style=flat-square" alt="Master of Applied Computer Science, StFX" />
+  <img src="https://img.shields.io/badge/Open_to-full--time_roles_across_Canada-15803D?style=flat-square" alt="Open to full-time roles across Canada" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharathgopalswamy&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Based_in-Nova_Scotia-0F766E?style=flat-square" alt="Based in Nova Scotia" />
-  <img src="https://img.shields.io/badge/Work_status-Authorized_in_Canada-15803D?style=flat-square" alt="Authorized to work in Canada" />
-</p>
+---
 
-## `> whoami`
+### The problem space I work in
 
-I am an **application developer** who enjoys the full problem-solving path: understanding a user need, building the interface, connecting the API, validating the data, and supporting the finished workflow.
+Most of what keeps an organization running isn't its public website. It's the **internal systems** behind it: the service desk that triages a broken laptop, the form that turns a maintenance report into a work order, the records system an admissions team lives in, and the reports a manager reads on Monday.
 
-My background combines React and Node.js development, API integration, SQL and MongoDB, automated testing, analytics, technical documentation, and hands-on support for a production university website serving **5,000+ students**.
+That's where my experience sits:
 
-```javascript
-const bharath = {
-  builds: ["web applications", "REST APIs", "data workflows", "dashboards"],
-  worksWith: ["React", "TypeScript", "Node.js", "SQL", "MongoDB", "Python"],
-  caresAbout: ["reliability", "clear UX", "clean data", "useful documentation"],
-  currentlyExploring: ["application support", "API quality", "Azure", "system design"],
-  lookingFor: "A team where I can build, troubleshoot, learn, and contribute"
-};
-```
+- **Building** those systems: React interfaces, Node.js/Express APIs, SQL data models, validation and tests.
+- **Supporting** them: investigating defects, tracing API and state issues, regression checks, documenting fixes.
+- **Using** them: I currently process applications and keep records accurate in a Salesforce-based CRM (TargetX) at StFX Admissions.
 
-## What I bring
+I'm looking for full-time roles as a **junior software developer, application / IT support analyst, or business systems analyst**.
 
-<table>
-  <tr>
-    <td width="25%" valign="top"><strong>Build</strong><br/><br/>Responsive React interfaces, reusable components, secure Node.js services, and end-to-end workflows.</td>
-    <td width="25%" valign="top"><strong>Connect</strong><br/><br/>REST APIs, JWT authentication, OAuth 2.0, third-party services, and frontend/backend integration.</td>
-    <td width="25%" valign="top"><strong>Understand</strong><br/><br/>SQL queries, normalized schemas, ETL pipelines, data validation, dashboards, and business-facing insights.</td>
-    <td width="25%" valign="top"><strong>Support</strong><br/><br/>Issue investigation, browser debugging, API testing, stakeholder communication, and technical documentation.</td>
-  </tr>
-</table>
+---
 
-## Featured builds
+### Systems map
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>DermaCure</h3>
-      <p>Full-stack healthcare workflow connecting patients and doctors through secure, role-based dashboards.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code> <code>Docker</code></p>
-      <ul>
-        <li>Patient, doctor, and admin authorization</li>
-        <li>Scan sharing and appointment workflows</li>
-        <li>Doctor reviews and recommendations</li>
-        <li>Vitest and React Testing Library coverage</li>
-      </ul>
-      <p><a href="https://derma-ai-psi.vercel.app"><strong>Live application</strong></a> · <a href="https://github.com/bharathgopalswamy/DermaAI"><strong>Source</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>HabitIQ</h3>
-      <p>Habit analytics platform combining secure tracking, visual progress, and AI-assisted planning.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code> <code>Gemini</code> <code>Recharts</code></p>
-      <ul>
-        <li>JWT-based user accounts</li>
-        <li>Heatmaps, trends, scores, and risk summaries</li>
-        <li>Personalized planning with history</li>
-        <li>Responsive TypeScript interface</li>
-      </ul>
-      <p><a href="https://habitiq.vercel.app"><strong>Live application</strong></a> · <a href="https://github.com/bharathgopalswamy/smart-ai-habit-tracker"><strong>Source</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Spotify Music Intelligence</h3>
-      <p>API-to-dashboard analytics workflow built around a real music catalogue.</p>
-      <p><code>Python</code> <code>Spotify API</code> <code>MySQL</code> <code>SQL</code> <code>Power BI</code></p>
-      <ul>
-        <li>ETL for 10 albums and 124 tracks</li>
-        <li>Normalized album and track schema</li>
-        <li>Popularity, duration, and release analysis</li>
-        <li>Power BI and interactive web dashboards</li>
-      </ul>
-      <p><a href="https://spotify-music-intelligence-platform.vercel.app"><strong>Explore project</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>MedCare</h3>
-      <p>Appointment-management system with relational data and calendar synchronization.</p>
-      <p><code>Django</code> <code>Python</code> <code>MySQL</code> <code>Google Calendar API</code> <code>OAuth 2.0</code></p>
-      <ul>
-        <li>Patient appointment scheduling</li>
-        <li>Google Calendar synchronization</li>
-        <li>Secure authentication</li>
-        <li>Administrative workflows</li>
-      </ul>
-      <p><a href="https://github.com/bharathgopalswamy/DoctorPatient"><strong>Source</strong></a></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/bharathgopalswamy/DermaAI"><img src="https://img.shields.io/badge/Explore-DermaCure-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore DermaCure on GitHub" /></a>
-  <a href="https://github.com/bharathgopalswamy/smart-ai-habit-tracker"><img src="https://img.shields.io/badge/Explore-HabitIQ-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="Explore HabitIQ on GitHub" /></a>
-</p>
-
-## Technology constellation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,django,mysql,mongodb,html,css,tailwind,git,github,docker,postman,figma,vscode&perline=9" alt="Technology icons" />
-</p>
-
-| Layer | Tools I use |
-|---|---|
-| **Interfaces** | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Recharts |
-| **Services** | Node.js, Express.js, Django, REST APIs, JWT, OAuth 2.0 |
-| **Data** | SQL, MySQL, MongoDB, Python, Pandas, ETL, Power BI |
-| **Quality** | Vitest, React Testing Library, Postman, debugging, data validation |
-| **Delivery** | Git, GitHub, Docker, Vercel, Render, Agile workflows |
-
-## From experience to impact
+My flagship projects are designed as parts of one operations platform. Each one is a complete, tested application on its own.
 
 ```mermaid
 flowchart LR
-    A[User need] --> B[Interface]
-    B --> C[API workflow]
-    C --> D[(Reliable data)]
-    D --> E[Useful outcome]
-    E --> F[Support & improvement]
+    I["🛠️ Intake<br/><b>MaintainIQ</b><br/>free text → validated work request"]
+    S["🎫 Service Desk<br/><b>Ticketing System</b><br/>priority · SLA · workflow · audit"]
+    R["🗂️ Records<br/><b>Admissions Workflow</b><br/>Java · Spring Boot · PostgreSQL"]
+    A["📊 Reporting<br/><b>IT Operations Analytics</b><br/>SQL · Power BI"]
+    I -->|work requests| S
+    S -->|ticket + SLA data| A
+    R -.->|application funnel| A
+    I -.->|structured exports| A
+    classDef live fill:#0F172A,stroke:#22D3EE,color:#E2E8F0;
+    classDef planned fill:#0F172A,stroke:#64748B,color:#94A3B8,stroke-dasharray:4 4;
+    class I,S live;
+    class R,A planned;
 ```
 
-<details>
-  <summary><strong>Website Coordinator · StFX Students' Union</strong></summary>
-  <br/>
-  Maintained a production website serving more than 5,000 students; investigated navigation, layout, mobile-responsiveness, and publishing issues; and translated stakeholder requests into reliable web updates.
-</details>
+<sub>Solid = built and on GitHub · dashed = on the roadmap</sub>
+
+---
+
+### Flagship projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎫 Service Desk Ticketing System</h4>
+      <a href="https://github.com/bharathgopalswamy/service-desk-ticketing-system"><img src="https://raw.githubusercontent.com/bharathgopalswamy/service-desk-ticketing-system/main/docs/screenshots/queue.png" alt="Service desk ticket queue with priority and live SLA countdown" width="100%" /></a>
+      <p>IT service desk modelled on how internal support teams handle incidents.</p>
+      <ul>
+        <li>ITIL-style <b>impact × urgency → P1–P4</b> priority</li>
+        <li>Response and resolution <b>SLA deadlines</b> with breach detection</li>
+        <li>Server-enforced ticket <b>workflow</b> and full <b>audit trail</b></li>
+        <li>SQL <b>reporting</b>: SLA compliance, breaches, resolution time</li>
+        <li>39 automated tests · CI · Docker</li>
+      </ul>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>SQLite</code> <code>Zod</code> <code>Vitest</code> <code>Docker</code></p>
+      <p><a href="https://service-desk-ticketing-system.onrender.com"><b>Live demo</b></a> · <a href="https://github.com/bharathgopalswamy/service-desk-ticketing-system"><b>Source</b></a> · <a href="https://github.com/bharathgopalswamy/service-desk-ticketing-system/blob/main/docs/ARCHITECTURE.md"><b>Architecture</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ MaintainIQ Intake</h4>
+      <p>Turns plain-language maintenance reports into structured CMMS work requests. A person reviews every field before anything is submitted.</p>
+      <ul>
+        <li>Gemini extraction validated against a <b>Zod schema</b>; unknown fields stay blank and are flagged, never invented</li>
+        <li>Deterministic <b>safety rules</b> (gas, fire, electrical) escalate priority independently of the AI</li>
+        <li>Safe error handling: internal details are logged, not shown to users</li>
+        <li>Automated tests · CI · Docker</li>
+      </ul>
+      <p><code>React</code> <code>Express</code> <code>Gemini API</code> <code>Zod</code> <code>Vitest</code> <code>Docker</code></p>
+      <p><a href="https://github.com/bharathgopalswamy/maintainiq-intake"><b>Source</b></a></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-  <summary><strong>Frontend Developer Intern · FirstLanguage Technologies</strong></summary>
+  <summary><b>More projects</b> (data, full-stack, analytics)</summary>
   <br/>
-  Built reusable React components for NLP analytics dashboards, integrated REST APIs, investigated application-state and rendering problems, and collaborated with backend engineers through Agile delivery and testing.
+
+| Project | What it shows | Stack | Links |
+|---|---|---|---|
+| **Job Market Reality Check** | Analysis of 2,253 data-analyst postings: skill demand with SQL (joins, CTEs, window functions) | Python · SQL · MySQL · Power BI | [Source](https://github.com/bharathgopalswamy/job-market-reality-check) |
+| **Spotify Music Intelligence** | API → ETL → normalized MySQL → Power BI pipeline (10 albums, 124 tracks) | Python · Spotipy · MySQL · Power BI | [Demo](https://spotify-music-intelligence-platform.vercel.app) · [Source](https://github.com/bharathgopalswamy/Spotify-Music-Intelligence-Platform) |
+| **DermaCure** | Role-based patient / doctor / admin workflows with JWT auth (portfolio prototype, not clinically validated) | React · Node.js · MongoDB · Docker | [Demo](https://derma-ai-psi.vercel.app) · [Source](https://github.com/bharathgopalswamy/DermaAI) |
+| **HabitIQ** | TypeScript full-stack app with analytics dashboards and optional AI planning | React · TypeScript · Node.js · MongoDB | [Demo](https://habitiq-blond.vercel.app) · [Source](https://github.com/bharathgopalswamy/smart-ai-habit-tracker) |
+
 </details>
 
-<details>
-  <summary><strong>React Developer Intern · Banao Technologies</strong></summary>
-  <br/>
-  Converted wireframes into responsive interfaces, developed reusable forms and dashboard modules, integrated REST APIs, and helped troubleshoot frontend/backend integration issues.
-</details>
+---
 
-## Live GitHub signal
+### Experience
+
+| Role | Where | What I do / did |
+|---|---|---|
+| **Admissions Assistant** | St. Francis Xavier University | Process applications and maintain applicant records in TargetX CRM; Excel reporting and data-quality checks |
+| **Website Coordinator & Technical Support** | StFX | Improved a page's PageSpeed score from 32 to 93; fixed broken links and layout defects with DevTools; desktop/mobile QA |
+| **Software Developer** | FirstLanguage Technologies | React + TypeScript features on REST APIs; defect investigation; functional and regression testing |
+| **Frontend Developer Intern** | FirstLanguage Technologies | Reusable dashboard components with Context and custom hooks; API/state defect tracing |
+| **ReactJS Developer Intern** | Banao Technologies | Wireframes → responsive forms, tables and dashboards; REST API integration |
+
+---
+
+### How I build
+
+- **Tests first-class:** business rules (priority, SLA, workflow) are unit-tested; APIs are tested end to end with Supertest; UIs with React Testing Library.
+- **CI on every change:** lint → tests → build → Docker build and smoke test, via GitHub Actions.
+- **Decisions written down:** each flagship has an `ARCHITECTURE.md` (diagrams, data model, trade-offs) and a `DEVLOG.md`.
+- **Validate on the server, guide in the UI:** the client only offers valid actions; the API still enforces them.
+- **Open about tooling:** I use AI pair-programming (Claude Code) on portfolio projects. I define the requirements, review every pull request, and can explain every design decision.
+
+---
+
+### Toolbox
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bharathgopalswamy&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&bg_color=0B1930" alt="Bharath's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=bharathgopalswamy&hide_border=true&background=0B1930&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Bharath's contribution streak" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,mysql,sqlite,mongodb,docker,githubactions,git,postman,vite,tailwind&perline=15" alt="React, TypeScript, JavaScript, Node.js, Express, Python, MySQL, SQLite, MongoDB, Docker, GitHub Actions, Git, Postman, Vite, Tailwind" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharathgopalswamy&bg_color=0B1930&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-</p>
+| Area | Tools |
+|---|---|
+| Application development | React, TypeScript, JavaScript, Node.js, Express, REST APIs, Zod |
+| Data and reporting | SQL, MySQL, SQLite, MongoDB, Python, Excel, Power BI |
+| Quality | Vitest, Jest, React Testing Library, Supertest, Postman, regression testing |
+| Delivery | Git, GitHub Actions, Docker, Vercel, Render |
+| Business systems | TargetX CRM (Salesforce-based), ITIL fundamentals, Microsoft Teams, SharePoint |
+
+---
+
+### Now building
+
+- [ ] **Service Desk v0.3:** SLA clock pauses while On Hold · logins with requester / agent / lead roles · business-hours SLA
+- [ ] **Admissions Application Workflow System:** Java 21, Spring Boot, PostgreSQL, JUnit; fictional data only
+- [ ] **IT Operations Analytics:** a SQL star schema and Power BI report over the Service Desk and MaintainIQ data
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bharathgopalswamy/bharathgopalswamy/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bharathgopalswamy/bharathgopalswamy/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/bharathgopalswamy/bharathgopalswamy/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/bharathgopalswamy/bharathgopalswamy/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## Current priorities
-
-- Expanding automated frontend and API test coverage in DermaCure.
-- Strengthening application-support skills in HTTP diagnostics, structured logging, and issue investigation.
-- Building practical knowledge of Azure fundamentals and enterprise integration patterns.
-
-> **Open to opportunities across Canada:** Application Developer · Application Support Analyst · Technical Analyst · Integration Support · Full-Stack Developer
-
 <p align="center">
-  <a href="https://bharathgopalsamy.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" /></a>
-  <a href="https://linkedin.com/in/bharathgopalsamy"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <sub>Based in Nova Scotia · open to Atlantic Canada, remote within Canada, and relocation for the right role</sub>
 </p>
